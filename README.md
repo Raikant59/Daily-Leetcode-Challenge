@@ -1,7 +1,7 @@
 # Daily-Leetcode-Challenge
 ## March 2025
 <details>
-<summary>Click to expand</summary>
+<summary>Click to see Questions and Solutions</summary>
 
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
