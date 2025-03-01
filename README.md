@@ -5,7 +5,7 @@
 
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
-| 2025-03-01 | [2460. Apply operations to an array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Solution](./3174-ClearDigits.java) |
+| 2025-03-01 | [2460. Apply operations to an array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Solution](./2460apply_operations_to_an_array.java) |
 
 
 </details>
