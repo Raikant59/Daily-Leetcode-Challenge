@@ -1,7 +1,6 @@
 import java.util.*;
 class Solution {
     public int minZeroArray(int[] nums, int[][] queries) {
-        int n = nums.length;
         
         if (Arrays.stream(nums).allMatch(x -> x == 0)) return 0;
         int left = 1, right = queries.length;
