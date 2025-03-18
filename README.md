@@ -22,7 +22,7 @@
 | 2025-03-15 | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/) | Medium | [Solution](./2560House_Robber_IV.java) |
 | 2025-03-16 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | [Solution](./2594Minimum_Time_to_Repair_Cars.java) |
 | 2025-03-17 | [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | [Solution](./2206Divide_Array_Into_Equal_Pairs.java) |
-
+| 2025-03-18 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium | [Solution](./2401Longest_Nice_Subarray.java) |
 
 
 
