@@ -46,7 +46,7 @@
 
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
-| 2025-04-06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [Solution](.April/368Largest_Divisible_Subset.java) |
+| 2025-04-06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [Solution](./April/368Largest_Divisible_Subset.java) |
 
 
 </details>
