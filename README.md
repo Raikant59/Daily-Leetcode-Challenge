@@ -48,6 +48,6 @@
 |------|---------|------------|---------------|
 | 2025-04-06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [Solution](./April/368Largest_Divisible_Subset.java) |
 | 2025-04-09 | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | [Solution](./April/3375Minimum_Operations_to_make_array_values_equal_to_k.java) |
-
+| 2025-04-11 | [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | [Solution](./April/2843Count_Symmetric_integers.java) |
 
 </details>
